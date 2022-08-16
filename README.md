@@ -11,3 +11,15 @@ A project to build a software that converts decimal numbers to roman numbers usi
 > Course: Tendencia en Desarrollo de Aplicaciones
 >
 > Period: 2022 - 03
+
+## Setup
+To install all dependencies, use the following command:
+```
+npm install
+```
+
+## Tests
+To execute the tests, use the following command:
+```
+npm run test
+```
